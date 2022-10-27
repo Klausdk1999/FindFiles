@@ -1,4 +1,4 @@
-/* Guilherme Schlindwein Matiola e Klaus Dieter Kupper
+/* Klaus Dieter Kupper
  * Exibe arquivos e diretórios de um local apontado pelo usuário através de parâmetro de entrada.
  * Exemplo de chamada no terminal ./dir /home/klausdk/Documentos/UFSC teste.c
  * ./dir <local de busca> <nome do arquivo>
